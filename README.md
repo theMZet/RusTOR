@@ -24,5 +24,9 @@
   </a>
 </div>
 <div align="center">
-<h3>WORK IN PROGRESS</h3>
 </div>
+
+RusTOR aims to create rust implementation of [Tor specifications](https://spec.torproject.org/).
+
+### Current state of project
+Work in prograss
